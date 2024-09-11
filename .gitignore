@@ -8,7 +8,6 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
-src/main/java/DB/DbDemo.java
 *.iws
 *.iml
 *.ipr
@@ -31,7 +30,7 @@ src/main/java/DB/DbDemo.java
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-
+!**/src/main/**/DBdemo/
 ### VS Code ###
 .vscode/
 
